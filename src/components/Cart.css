@@ -1,0 +1,21 @@
+.cartItems{
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    background-color: rgb(230, 251, 255);
+    flex: 0.8;
+    margin-right: 18px;
+    border-color: beige;
+}
+
+.cartItem{
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    background-color: rgb(214, 248, 255);
+    flex: 0.8;
+    margin-right: 18px;
+}
+p{
+    margin-top: 8px;
+}
